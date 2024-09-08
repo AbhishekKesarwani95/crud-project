@@ -1,0 +1,36 @@
+{
+  "company": [
+    {
+      "name": "ayush",
+      "empcount": "52",
+      "revenue": "17887",
+      "address": "meerapur",
+      "isactive": true,
+      "id": 5
+    },
+    {
+      "name": "Abhishek Kesarwani",
+      "empcount": "23",
+      "revenue": "2",
+      "address": "Mutthiganj Rd",
+      "isactive": true,
+      "id": 7
+    },
+    {
+      "name": "Janet",
+      "empcount": "56",
+      "revenue": "7162",
+      "address": "Mutthiganj",
+      "isactive": true,
+      "id": 8
+    },
+    {
+      "name": "Sheetal sahu",
+      "empcount": "515",
+      "revenue": "83",
+      "address": "hdhdh",
+      "isactive": false,
+      "id": 9
+    }
+  ]
+}
